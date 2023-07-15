@@ -147,8 +147,7 @@
     <main>
         <div class="login-img-reg-container">
             <div id="left-asset-wrapper">
-                <h2 id="login-left-text">“The government doesn't want any system of transmitting information to remain unbroken, unless it's under its own control.” ― Isaac Asimov, Tales of the Black Widowers</h2>
-                <img src="../public/assets/images/preview.png" id="login-image-preview" alt="">
+                <h2 id="login-left-text">“Avec WeShare, partagez et restez en contact avec votre entourage.</h2>
             </div>
             <div id="registration-section">
                 <div class="green-message">
