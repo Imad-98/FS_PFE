@@ -290,7 +290,7 @@ function recurse_copy($src,$dst) {
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>V01D47</title>
+<title>WeShare</title>
 <link rel='shortcut icon' type='image/x-icon' href='public/assets/images/favicons/favicon.ico' />
 <link rel="stylesheet" href="public/css/global.css">
 <link rel="stylesheet" href="public/css/settings.css">
@@ -338,12 +338,10 @@ function recurse_copy($src,$dst) {
                         <div>
                             <label for="cover-input" class="setting-label" style="font-size: 16px; margin-bottom: 5px">Cover</label>
                             <input type="file" form="save-form" name="cover" class="block" id="cover-input">
-                            <p class="no-margin input-hint">PNG, JPG, JPEG, or GIF. At most 2 MB. Will be downscaled to 1500x500px</p>
                         </div>
                         <div style="margin-top: 10px">
                             <label for="avatar-input" class="setting-label" style="font-size: 16px; margin-bottom: 5px">Avatar</label>
                             <input type="file" form="save-form" name="avatar" class="block" id="avatar-input">
-                            <p class="no-margin input-hint">PNG, JPG, JPEG, or GIF. At most 5 MB. Will be downscaled to 400x400px</p>
                         </div>
                         <div style="margin-top: 10px">
                             <label for="avatar-input" class="setting-label" style="font-size: 16px; margin-bottom: 5px">Private account</label>

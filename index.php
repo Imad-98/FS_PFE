@@ -37,7 +37,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>V01D47</title>
+    <title>WeShare</title>
     <link rel='shortcut icon' type='image/x-icon' href='public/assets/images/favicons/favicon.ico' />
     <link rel="stylesheet" href="public/css/global.css">
     <link rel="stylesheet" href="public/css/header.css">

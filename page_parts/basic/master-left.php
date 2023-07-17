@@ -43,30 +43,12 @@
                         <img src="public/assets/images/icons/home-w.png" class="image-style-5" alt="">
                     </div>
                     <p class="label-style-3">Home</p>
-                </a>
-                <a href="<?php echo Config::get("root/path") . "notifications.php" ?>" class="no-underline menu-item-style-2 row-v-flex">
-                    <div class="image-style-2 flex-row-column">
-                        <img src="public/assets/images/icons/notification.png" class="image-style-5" alt="">
-                    </div>
-                    <p class="label-style-3">Notifications</p>
-                </a>
+                </a>               
                 <a href="<?php echo Config::get("root/path") . "chat.php" ?>" class="no-underline menu-item-style-2 row-v-flex">
                     <div class="image-style-2 flex-row-column">
                         <img src="public/assets/images/icons/messages.png" class="image-style-5" alt="">
                     </div>
                     <p class="label-style-3">Messages</p>
-                </a>
-                <a href="<?php echo Config::get("root/path") . "notifications.php" ?>" class="no-underline menu-item-style-2 row-v-flex">
-                    <div class="image-style-2 flex-row-column">
-                        <img src="public/assets/images/icons/page.png" class="image-style-5" alt="">
-                    </div>
-                    <p class="label-style-3">Pages</p>
-                </a>
-                <a href="<?php echo Config::get("root/path") . "notifications.php" ?>" class="no-underline menu-item-style-2 row-v-flex">
-                    <div class="image-style-2 flex-row-column">
-                        <img src="public/assets/images/icons/group-w.png" class="image-style-5" alt="">
-                    </div>
-                    <p class="label-style-3">Groups</p>
                 </a>
                 <p class="regular-text green-text" style="margin: 6px 0 8px 6px">Profile</p>
                 <div id="menu-profile-container" class="relative">

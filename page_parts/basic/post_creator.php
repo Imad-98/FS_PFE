@@ -57,12 +57,6 @@
                 </div>
             </div>
         </div>
-        <div id="full-screen-create-post" class="relative">
-            <a href="" class="button-style-5 full-screen-background "></a>
-            <div class="viewer">
-
-            </div>
-        </div>
     </div>
     <div>
         <textarea name="post-textual-content" form="create-post-form" id="create-post-textual-content" class="textarea-style-2" placeholder="What's on your mind .."></textarea>
@@ -79,7 +73,6 @@
             <input type="file" form="create-post-form" accept=".mp4,.webm,.mpg,.mp2,.mpeg,.mpe,.mpv,.ogg,.mp4,.m4p,.m4v,.avi" id="post-video" class="absolute no-opacity-element" style="cursor: pointer">
             <div class="multimedia-background button-style-6"></div>
         </div>
-        <div class="live-btn live-button-style"></div>
     </div>
     <div class="button-style-7-container" id="post-create-button">
         <form action="" method="POST" id="create-post-form" name="create-post-form" enctype="multipart/form-data">

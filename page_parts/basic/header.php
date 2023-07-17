@@ -177,9 +177,6 @@ MSG;
                 <div class="horizontal-menu-item-wrapper">
                     <a href="<?php echo $root . "search.php" ?>" class="horizontal-menu-link menu-button-style-1" id="explore-button">Explore</a>
                 </div>
-                <div class="horizontal-menu-item-wrapper">
-                    <a href="" class="horizontal-menu-link menu-button-style-1 live-button">Live</a>
-                </div>
             </div>
             <div class="menu-items-separator">〡</div>
             <div class="row-v-flex header-menu">
@@ -248,16 +245,6 @@ MSG;
                                     </div>
                                     <div class="message-content-container">
                                         <p style="margin: 4px">Settings</p>
-                                    </div>
-                                </div>
-                            </a>
-                            <a href="" class="sub-option">
-                                <div class="row-v-flex">
-                                    <div>
-                                        <img src="<?php echo Config::get("root/path") . "public/assets/images/icons/log.png" ?>" class="image-style-2" alt="user activity log">
-                                    </div>
-                                    <div class="message-content-container">
-                                        <p style="margin: 4px">Activity Log</p>
                                     </div>
                                 </div>
                             </a>
