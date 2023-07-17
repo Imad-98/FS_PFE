@@ -207,7 +207,7 @@ a {
 }
 
 .setting-label {
-    color: #8aff8a;
+    color: rgb(102, 102, 102);
     display: block;
     margin-bottom: 8px;
 }
