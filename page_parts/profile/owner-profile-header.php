@@ -8,10 +8,6 @@
 <div class="flex-space" id="owner-profile-menu-and-profile-edit">
     <div class="row-v-flex">
         <a href="" class="profile-menu-item profile-menu-item-selected" style="border-radius: 0">Timeline</a>
-        <a href="" class="profile-menu-item">Photos</a>
-        <a href="" class="profile-menu-item">Videos</a>
-        <a href="" class="profile-menu-item">Likes</a>
-        <a href="" class="profile-menu-item">Comments</a>
     </div>
     <div>
         <a href="" class="button-style-2" id="edit-profile-button">Edit profile</a>
