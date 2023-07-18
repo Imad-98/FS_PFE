@@ -147,7 +147,7 @@
     <main>
         <div class="login-img-reg-container">
             <div id="left-asset-wrapper">
-                <h2 id="login-left-text">“Avec WeShare, partagez et restez en contact avec votre entourage.</h2>
+                <h2 id="login-left-text">“WeShare, helps you connect and share with the people in your life.</h2>
             </div>
             <div id="registration-section">
                 <div class="green-message">
