@@ -697,11 +697,9 @@ input, textarea, a {
     background: none;
     width: 80px;
     height: 32px;
-    
     background-color: black;
     color: white;
     border: 3px solid white;
-
     transition: all 0.4s ease;
 }
 
