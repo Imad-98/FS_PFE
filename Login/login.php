@@ -121,7 +121,7 @@
                 is the same person log in because the user could create a new account but login with other account, in that case we won't
                 show any welcome message*/
                 
-                Session::flash("register_success", "welcome to VOID47 chat application");
+                Session::flash("register_success", "welcome to WeShared chat application");
                 Session::flash("new_username", Common::getInput($_POST, "username"));
             } else {
                 $login_failure_message = $validate->errors()[0];
