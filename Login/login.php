@@ -195,7 +195,7 @@
                 
                     <div class="classic-form-input-wrapper">
                         <input type="hidden" name="token_reg" value="<?php echo Token::generate("register"); ?>">
-                        <input type="submit" value="Register" name="register" class="button-style-1" style="width: 70px;">
+                        <input type="submit" value="Register" name="register" class="button-style-1 regiss" style="width: 70px;">
                     </div>
                 </form>
             </div>

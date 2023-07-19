@@ -394,6 +394,11 @@ input, textarea, a {
     color: black;
 }
 
+.regiss{
+    border: #32CD32;
+    color: black;
+}
+
 .button-style-2 {
     display: flex;
     text-decoration: none;
