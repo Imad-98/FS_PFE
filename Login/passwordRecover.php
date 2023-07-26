@@ -87,7 +87,7 @@
     <main>
         <div id="reset-section">
             <h2 class="title-style1">Password recovery</h2>
-            <p>Enter your email and click send button to get a confirmation code on your email box.</p>
+            <p class="parag_reco">Enter your email and click send button to get a confirmation code on your email box.</p>
             <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]) ?>" method="post" class="flex-column">
                 <div class="classic-form-input-wrapper">
                     <label for="username" class="classic-label">Email</label>
